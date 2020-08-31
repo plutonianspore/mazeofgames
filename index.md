@@ -1,5 +1,5 @@
 <div id="spinner"></div>
 
 <script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
+document.getElementById("spinner").innerHTML = "Text added by JavaScript code";
 </script>
